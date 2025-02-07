@@ -1,0 +1,173 @@
+[
+    {
+      "name": "Wireless Bluetooth Headphones",
+      "price": 49.99,
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "ratings": 4.5,
+      "images": [
+        {
+          "image":"headphones2.jpg"
+        }
+      ],
+      "category": "Electronics",
+      "seller": "TechGear",
+      "stock": 25,
+      "numOfReviews": 120,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    },
+    {
+      "name": "Smart LED TV 55-inch",
+      "price": 499.99,
+      "description": "Ultra HD 4K Smart LED TV with HDR10 support.",
+      "ratings": 4.8,
+      "images": [
+        {
+          "image":"tv1.jpg"
+        }
+      ],
+      "category": "Electronics",
+      "seller": "BestElectro",
+      "stock": 10,
+      "numOfReviews": 85,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    },
+    {
+      "name": "Gaming Laptop 16GB RAM",
+      "price": 1099.99,
+      "description": "Powerful gaming laptop with high refresh rate display.",
+      "ratings": 4.7,
+      "images": [
+        {
+          "image":"laptop1.jpg"
+        }
+      ],
+      "category": "Computers",
+      "seller": "GamerWorld",
+      "stock": 15,
+      "numOfReviews": 75,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    },
+    {
+      "name": "Men's Leather Wallet",
+      "price": 19.99,
+      "description": "Premium genuine leather wallet with multiple card slots.",
+      "ratings": 4.3,
+      "images": [
+        {
+          "image":"wallet2.jpg"
+        }
+      ],
+      "category": "Accessories",
+      "seller": "StyleMart",
+      "stock": 50,
+      "numOfReviews": 60,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    },
+    {
+      "name": "Digital DSLR Camera",
+      "price": 899.99,
+      "description": "Professional DSLR camera with 24.2 MP sensor and 4K video recording.",
+      "ratings": 4.6,
+      "images": [
+        {
+          "image":"camera.jpg"
+        }
+      ],
+      "category": "Electronics",
+      "seller": "PhotoPro",
+      "stock": 8,
+      "numOfReviews": 95,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    },
+    {
+      "name": "Running Shoes for Men",
+      "price": 59.99,
+      "description": "Comfortable and lightweight running shoes for daily wear.",
+      "ratings": 4.4,
+      "images": [
+        {
+          "image":"shoes.jpg"
+        }
+      ],
+      "category": "Footwear",
+      "seller": "SportyFeet",
+      "stock": 30,
+      "numOfReviews": 110,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    },
+    {
+      "name": "Smartphone 128GB Storage",
+      "price": 699.99,
+      "description": "Latest smartphone with AMOLED display and fast charging.",
+      "ratings": 4.7,
+      "images": [
+        {
+          "image":"phone.jpg"
+        }
+      ],
+      "category": "Electronics",
+      "seller": "MobileWorld",
+      "stock": 20,
+      "numOfReviews": 150,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    },
+    {
+      "name": "Men's Analog Watch",
+      "price": 79.99,
+      "description": "Elegant stainless steel watch with water resistance.",
+      "ratings": 4.5,
+      "images": [
+        {
+          "image":"watch.jpg"
+        }
+      ],
+      "category": "Accessories",
+      "seller": "TimeZone",
+      "stock": 40,
+      "numOfReviews": 90,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    },
+    {
+      "name": "Wireless Charging Pad",
+      "price": 29.99,
+      "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+      "ratings": 4.6,
+      "images": [
+        {
+          "image":"charger.jpg"
+        }
+      ],
+      "category": "Electronics",
+      "seller": "PowerUp",
+      "stock": 60,
+      "numOfReviews": 55,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    },
+    {
+      "name": "Kitchen Blender 1000W",
+      "price": 89.99,
+      "description": "High-power blender for smoothies and soups.",
+      "ratings": 4.3,
+      "images": [
+        {
+          "image":"blender.jpg"
+        }
+      ],
+      "category": "Home Appliances",
+      "seller": "HomeEssentials",
+      "stock": 35,
+      "numOfReviews": 40,
+      "reviews": [],
+      "createdAt": "2024-02-07"
+    }
+  ]
+  

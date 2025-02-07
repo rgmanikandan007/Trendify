@@ -16,13 +16,15 @@ const productSchema = new mongoose.Schema({
         required: [true, "Please Enter product description"],
     },
     ratings : {
-        type: String,
+        type: Number,
         default: 0
     },
-    images : [
+    images: [
         {
-            image: String,
-            required: true
+            image: {
+                type: String,
+                required: true  // Moved inside the field
+            }
         }
     ],
     category : {
